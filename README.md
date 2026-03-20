@@ -1,3 +1,6 @@
+NOTE: change the wisp url in public/index.js to the wisp url of your liking.
+For rehosting, upload public/ to your host of choice.
+
 <p align="center"><img src="https://raw.githubusercontent.com/MercuryWorkshop/scramjet/main/assets/scramjet.png" height="200"></p>
 
 <h1 align="center">Scramjet Demo</h1>
